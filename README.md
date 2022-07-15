@@ -1,2 +1,5 @@
-# Kodluyoruz-dev
-Insertion Sort Projesi
+[22,27,26,2,18,6] [16,22,27,2,18,6] [2,16,22,27,18,6] [2,16,18,22,27,6]
+Big-O gösterimi O(n²)
+Average case: O(n²) Worst case: O(n²) Best case: O(n)
+Avarage Case
+[3,7,5,8,2,9,4,15,6] [3,5,7,8,2,9,4,15,6] [3,5,7,8,2,9,4,15,6] [2,3,5,7,8,9,4,15,6]
